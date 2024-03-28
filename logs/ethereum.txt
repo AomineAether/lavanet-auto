@@ -209,3 +209,4 @@ error code: 520
 {"jsonrpc":"2.0","id":1,"result":"0x5a422c842"}
 {"error":"{\"Error_GUID\":\"16902494398823694952\",\"Error\":\"Failed all relay retries due to timeout consider adding 'lava-relay-timeout' header to extend the allowed timeout duration {GUID:16902494398823694952}\"}"}
 {"jsonrpc":"2.0","id":1,"result":"0x5224c1201"}
+{"jsonrpc":"2.0","id":1,"result":"0x4ef4bf44b"}
