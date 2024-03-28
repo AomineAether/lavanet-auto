@@ -228,3 +228,4 @@ error code: 520
 {"jsonrpc":"2.0","id":1,"result":"0x77738e421"}
 {"jsonrpc":"2.0","id":1,"result":"0x767de8637"}
 {"error":"{\"Error_GUID\":\"12506325115402786385\",\"Error\":\"Failed all retries {GUID:12506325115402786385,error:No pairings available.,chain_id:ETH1}\"}"}
+{"jsonrpc":"2.0","id":1,"result":"0x77cb0803a"}
