@@ -423,3 +423,4 @@ error code: 520
 {"jsonrpc":"2.0","id":1,"result":"0x5fc9dccfb"}
 {"error":"{\"Error_GUID\":\"9278827012084214261\",\"Error\":\"Failed all retries {GUID:9278827012084214261,error:rpc error: code = Unavailable desc = unexpected HTTP status code received from server: 502 (Bad Gateway); transport: received unexpected content-type \\\"text/html\\\",chain_id:ETH1}\"}"}
 {"jsonrpc":"2.0","id":1,"result":"0x6ae1e5561"}
+{"jsonrpc":"2.0","id":1,"result":"0x5fee1e26f"}
